@@ -1,8 +1,8 @@
 # Wallpaper Bank
 
-A **4K-only** wallpaper bank for [JaKooLit's Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots), now with seamless-looping live wallpapers for landscape and portrait monitors. If you use the dots, copy `wallpapers/` to `~/Pictures/wallpapers/`.
+A **4K-only** wallpaper bank for [JaKooLit's Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots), now with seamless-looping live wallpapers for landscape and portrait monitors. `~/Pictures/Wallpapers` is a symlink to this repository's `wallpapers/` directory, so wallpaper changes are available there immediately.
 
-> 🎏 The still images are not mine. All credit goes to the artists and photographers who made them. The live wallpapers are original: they are rendered procedurally by [`scripts/generate-live-wallpapers.py`](scripts/generate-live-wallpapers.py), so there's no third-party footage and no licence baggage.
+> 🎏 The still images are not mine. All credit goes to the artists and photographers who made them. The live wallpapers are original: they are rendered procedurally by [`scripts/generate-live-wallpapers.py`](scripts/generate-live-wallpapers.py), so there's no third-party footage and no licence baggage. The one exception is `Jellyfish-Moon-Vertical.mp4`, a filmed aquarium loop upscaled from 1080×1920; it isn't generated.
 
 ## What's inside
 
